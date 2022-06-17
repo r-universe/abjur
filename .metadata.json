@@ -1,0 +1,10 @@
+[
+  {
+    "package": "abjData",
+    "oncran": true
+  },
+  {
+    "package": "abjutils",
+    "oncran": true
+  }
+]
