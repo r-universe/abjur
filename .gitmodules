@@ -3,13 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "abjData"]
-	path = abjData
-	url = https://github.com/abjur/abjdata
-	shallow = true
-	registered = true
 [submodule "abjutils"]
 	path = abjutils
 	url = https://github.com/abjur/abjutils
+	shallow = true
+	registered = true
+[submodule "abjData"]
+	path = abjData
+	url = https://github.com/abjur/abjdata
 	shallow = true
 	registered = true
